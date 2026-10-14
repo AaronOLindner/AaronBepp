@@ -1,4 +1,4 @@
-<h1 align="center">Fenix</h1>
+<h1 align="center">Aaron Lindner</h1>
 
 <h3 align="center"> UI/UX Designer for Roblox</h3>
 
@@ -9,15 +9,14 @@
 ---
 
  **About Me:**  
-Hello I am **Fenix**.  
+Hello I am **Aaron**.  
 I'm **Brazilian** and today I work with **Figma and UI/UX design for Roblox**. I am working increasingly harder to deliver better and better results.
 
 ---
 
 **Here's my pricing:**
-- **$5** – Concept + Import
-- **$10** – Stylized Concept + Import + Animations
-- **$15** – Stylized Concept + Import + Animations + Flexible for requests 
+
+- **$100** – Stylized Concept + Import + Animations + Flexible for requests 
 
  **Contact Me:**  
 - **Discord:**  aaron.lindner
