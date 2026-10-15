@@ -1,23 +1,23 @@
-<h1 align="center">Aaron Lindner</h1>
+<div align="center">
 
-<h3 align="center"> UI/UX Designer for Roblox</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:101713,55:19251E,100:24342B&height=270&section=header&text=Aaron%20Lindner&fontSize=58&fontColor=F4F2E9&fontAlignY=42&desc=UI%20DESIGNER&descSize=16&descColor=C3F279&descAlignY=65&animation=fadeIn" alt="Aaron Lindner — UI Designer" />
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/gC13ieqXJrYAAAAC/music-headphones.gif" width="125">
-</p>
+<br />
+
+### Thoughtful interfaces. Quiet details. Clear ideas.
+
+I design digital experiences with clarity, character, and care.
+
+<br />
+
+<img src="https://img.shields.io/badge/UI%20DESIGNER-C3F279?style=for-the-badge&labelColor=19251E" alt="UI Designer" />
+
+<br /><br />
+
+</div>
 
 ---
 
- **About Me:**  
-Hello I am **Aaron**.  
-I'm **Brazilian** and today I work with **Figma and UI/UX design for Roblox**. I am working increasingly harder to deliver better and better results.
-
----
-
-**Here's my pricing:**
-
-- **$100** – Stylized Concept + Import + Animations + Flexible for requests 
-
- **Contact Me:**  
-- **Discord:**  aaron.lindner
-- **Email:** aaronconta738@gmail.com
+<div align="center">
+<sub>GOOD DESIGN FEELS SIMPLE. THE THINKING BEHIND IT ISN'T.</sub>
+</div>
